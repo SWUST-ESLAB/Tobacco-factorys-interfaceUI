@@ -1,0 +1,35 @@
+<RCC>
+  <qresource prefix="yan">
+    <file>11.png</file>
+    <file>风.png</file>
+    <file>温度.png</file>
+    <file>温度计.png</file>
+    <file>01.jpg</file>
+    <file>OIP-C (2).jpg</file>
+    <file>OIP-C.jpg</file>
+    <file>OIP-C (1).jpg</file>
+    <file>1.jpg</file>
+    <file>1.png</file>
+    <file>2.png</file>
+    <file>3.png</file>
+    <file>4.png</file>
+    <file>9134face8127328b38974bb40859f03d.jpeg</file>
+    <file>chejian.jpg</file>
+    <file>cylinder.png</file>
+    <file>GRA.jpg</file>
+    <file>GRA.png</file>
+    <file>GRA1.png</file>
+    <file>heatmap.gif</file>
+    <file>heatmap.png</file>
+    <file>log.jpg</file>
+    <file>log.png</file>
+    <file>log720.png</file>
+    <file>login.jpg</file>
+    <file>login.png</file>
+    <file>logo.png</file>
+    <file>pressure-meter.png</file>
+    <file>src=http___ss2.meipian.me_users_45850567_720f0ade3841e54d3ab44a6fbd29a120.jpg_meipian-raw_bucket_ivwen_key_dXNlcnMvNDU4NTA1NjcvNzIwZjBhZGUzODQxZTU0ZDNhYjQ0YTZmYmQyOWExMjAuanBn_.webp</file>
+    <file>wind.png</file>
+    <file>windsock.png</file>
+  </qresource>
+</RCC>
